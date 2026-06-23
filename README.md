@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn%22 />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity+Analyst+%7C+Web+%26+Mobile+App+Developer+%7C+Application+Security&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
- 
+
 # Hi there, I'm Cyril-John Sinari 👋
  
 I'm a final-year Computer Science student passionate about building secure software and defending digital systems. I enjoy building secure mobile applications, analyzing malware and developing tools that improve security operations and threat detection.
@@ -9,7 +9,7 @@ I'm a final-year Computer Science student passionate about building secure softw
 - 🔭 **Current Focus:** React Native development • SOC Operations • Malware Analysis • Mobile Application Security
 - 🌱 **Learning & Exploration:** Machine Learning for cybersecurity • SOC operations • Threat Detection 
 - ⚡ **Core Interests:** Cybersecurity  • Application Security • Quantum Computing
-
+---
  
 ## Technical Ecosystem
  
@@ -24,15 +24,14 @@ I'm a final-year Computer Science student passionate about building secure softw
 ---
  
 ## GitHub Stats
-*Note: These data visualization modules automatically update in real time based on your active version control contributions.*
  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=cjsinari&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff%22 alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff%22 alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjsinari&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff%22 alt="Top Languages" />
  
   <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true%22 alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cjsinari&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true%22 alt="Contribution Graph" />
 </p>
 </p>
  
@@ -40,8 +39,8 @@ I'm a final-year Computer Science student passionate about building secure softw
  
 ## Connect With Me
  
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
-- 📧 **Direct Contact:** [Your email address or professional contact point]
+- 💼 LinkedIn: https://www.linkedin.com/in/cyril-john-sinari-7752b9358/
+- 📧 Email: cyrilsinari@gmail.com
  
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer%22 />
