@@ -7,8 +7,8 @@
 I'm a final-year Computer Science student passionate about building secure software and defending digital systems. I enjoy building secure mobile applications, analyzing malware and developing tools that improve security operations and threat detection.
 
 - 🔭 **Current Focus:** React Native development • SOC Operations • Malware Analysis • Mobile Application Security
-- 🌱 **Learning & Exploration:** Machine Learning for cybersecurity • SOC operations • Threat Detection
-- ⚡ **Core Interests:** Cybersecurity • Application Security • Quantum Computing
+- 🌱 **Learning & Exploration:** Machine Learning for cybersecurity • SOC operations • Quantum Computing
+- ⚡ **Core Interests:** Cybersecurity • Application Security • Threat Detection
 
 ---
 
