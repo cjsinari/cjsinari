@@ -27,9 +27,9 @@ I'm a final-year Computer Science student passionate about building secure softw
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-master-cjs-projects-4258e0e7.vercel.app/api?username=cjsinari&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+<img src="https://github-readme-stats-xi-weld-35.vercel.app/api?username=cjsinari&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats-git-master-cjs-projects-4258e0e7.vercel.app/api/top-langs/?username=cjsinari&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+<img src="https://github-readme-stats-xi-weld-35.vercel.app/api/top-langs/?username=cjsinari&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
